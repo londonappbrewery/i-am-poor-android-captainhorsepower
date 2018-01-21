@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name">I Am Currently Poor</string>
+    <string name="poorText">I am poor!</string>
+    <string name="curText">(currently)</string>
 </resources>
